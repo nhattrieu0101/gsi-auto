@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: http://bigota.d.miui.com/21.2.3/miui_GRUS_21.2.3_60342cd1f2_11.0.zip
+  ROM_URL: http://bigota.d.miui.com/21.2.2/miui_LAURUS_21.2.2_bdf7ad0ddd_10.0.zip
   ROM_NAME: MIUI
-  ZIP_NAME: MI9SE
+  ZIP_NAME: MICC9lite
   TZ: Asia/Kolkata
 jobs:
   build:
